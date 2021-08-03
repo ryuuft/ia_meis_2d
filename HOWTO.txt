@@ -1,0 +1,11 @@
+PASSO A PASSO:
+
+1º) Unrar "imgs_maps" para uma pasta com o mesmo nome;
+
+2º) pip install -r requirements.txt
+
+3º) python IA_2d.py ou python3 IA_2d.py
+
+ou 
+
+4º) abrir e rodar o jupyter notebook.
