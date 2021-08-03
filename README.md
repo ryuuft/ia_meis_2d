@@ -5,10 +5,12 @@ Development of artificial intelligence for analysis of MEIS maps to obtain the t
 ## HOW TO TEST
 
 
-1. Unrar imgs_maps.rar to a folder with the same name.
+1. Download the images from - https://www.mediafire.com/file/xvp3449j0kmygyb/imgs_maps.rar/file
 
-2. '''pip install -r requirements.txt'''
+2. Unrar imgs_maps.rar to a folder with the same name.
 
-3. '''python IA_2d.py''' or '''python3 IA_2d.py'''
+3. pip install -r requirements.txt
 
-4. Open and run all cells from .ipynb
+4. python IA_2d.py or python3 IA_2d.py
+
+5. Open and run all cells from .ipynb
