@@ -1,0 +1,11 @@
+pandas==1.0.1
+seaborn==0.10.0
+matplotlib==3.2.0
+tensorflow_gpu==2.1.0
+session_info==1.0.0
+numpy==1.18.1
+opencv_python==4.2.0.32
+common==0.1.2
+numpy==1.21.1
+scikit_learn==0.24.2
+tensorflow==2.5.0
